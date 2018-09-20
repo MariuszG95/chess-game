@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Player {
 
+
     public Move getMove() {
 
         Scanner scanner = new Scanner(System.in);
